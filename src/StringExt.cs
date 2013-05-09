@@ -1,4 +1,4 @@
-﻿namespace System;
+﻿namespace System
 {
     /// <summary>
     /// Extension methods for <see cref="System.String"/>
